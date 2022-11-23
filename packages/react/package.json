@@ -24,6 +24,7 @@
     "typescript": "^4.9.3"
   },
   "dependencies": {
+    "@radix-ui/react-avatar": "^1.0.1",
     "@stitches/react": "^1.2.8"
   }
 }
