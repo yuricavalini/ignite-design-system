@@ -1,6 +1,6 @@
 {
   "name": "@yuriwlc-ignite-ui/eslint-config",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "license": "MIT",
   "private": true,
   "main": "index.js",

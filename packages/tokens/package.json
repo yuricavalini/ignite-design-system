@@ -1,6 +1,6 @@
 {
   "name": "@yuriwlc-ignite-ui/tokens",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@yuriwlc-ignite-ui/ts-config": "*",
+    "@yuriwlc-ignite-ui/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.3"
   }

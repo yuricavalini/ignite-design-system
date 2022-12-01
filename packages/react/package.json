@@ -1,6 +1,6 @@
 {
   "name": "@yuriwlc-ignite-ui/react",
-  "version": "2.0.0",
+  "version": "0.1.1",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@yuriwlc-ignite-ui/eslint-config": "*",
+    "@yuriwlc-ignite-ui/tokens": "*",
+    "@yuriwlc-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",
