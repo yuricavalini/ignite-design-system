@@ -1,0 +1,2 @@
+import{A as t}from"./index.c0cc5962.js";import"./index.9026f2b7.js";import"./iframe.8c41530d.js";import"./index.5fed20ce.js";import"./jsx-runtime.12a78a6e.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/yuricavalini.png",alt:"Yuri Cavalini"},argTypes:{src:{control:{type:"text"}}}},p={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,l as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.7c2fdd82.js.map
